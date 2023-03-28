@@ -5,12 +5,11 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 
 
 - [Overview](#overview)
-  - [Links](#links)
+  - [Link](#link)
   - [Built with](#built-with)
   
-### Links
+### Link
 
-- Solution URL:(https://your-solution-url.com)
 - Live Site URL: (https://ashish-kohli.github.io/Stats-preview-card-component/)
 
 
@@ -20,8 +19,6 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 - CSS custom properties
 - Flexbox
 - CSS Grid
-
-
 
 - Frontend Mentor - [@ASHISH-KOHLI]
 
